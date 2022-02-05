@@ -7,3 +7,4 @@ I Moduli sorgenti utilizzati sono 4 :
 - Bank-full.csv. Contiene il dataset con 45211 instanze e 17 attributi.
 
 Il main è implentato il modo che se noi scriviamo da tastiera "1" andiamo a testare il dataset "Bank-additional-full.csv" invece se scriviamo "2" andiamo a testare l'altro.
+Infine il file pdf chiamato "AI.pdf" contiene la relazione.
